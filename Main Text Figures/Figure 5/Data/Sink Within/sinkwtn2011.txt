@@ -1,0 +1,232 @@
+                                 _____________________________
+
+                                        SaTScan v10.1.2
+                                 _____________________________
+
+
+Program run on: Fri Jul  7 14:57:41 2023
+
+Retrospective Space-Time analysis
+scanning for clusters with high rates
+using the Discrete Poisson model.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2011/1/1 to 2011/12/31
+Number of locations................: 2157
+Population, averaged over time.....: 144732782
+Total number of cases..............: 39034
+Annual cases / 100000..............: 27.0
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: 150797, 150390, 130340, 130300, 150285, 130050, 150300, 130440,
+                          150680, 130068, 150100, 150145, 150510, 150040, 130200, 130395,
+                          130400, 150480, 150530, 150619, 130190, 150565, 130430, 150600,
+                          130310, 150815, 150805, 130356, 150050, 130115, 130290, 150445,
+                          130030, 130353, 130260, 150590, 150360, 150172, 140023, 130110,
+                          130185, 140050, 130080, 160027, 160080, 130255, 150835, 140060,
+                          130250, 160040, 150310, 140047, 160015, 150780, 150060, 130320,
+                          150450, 160053, 130008, 160060, 160005, 130083, 150580, 150085,
+                          150375, 140020, 160023, 140017, 150180, 130063, 150030, 140015,
+                          130010, 150548, 150503, 160030, 150110, 160055, 130330, 160025,
+                          160070, 150280, 130014, 150520, 150070, 140010, 130130, 160021,
+                          150506, 160020, 130270, 150730, 160050, 150770, 150120, 140040,
+                          150810, 150250, 510080, 150210, 160010, 150400, 150808, 150460,
+                          140030, 130040, 150490, 150640, 150553, 150370, 140028, 150178,
+                          150330, 150420, 150470, 150570, 150543, 140045, 150010, 510629,
+                          150200, 140070, 150034, 150309, 150380, 150215, 150795, 150497
+  Coordinates / radius..: (1.952134 S, 56.458364 W) / 869.41 km
+  Time frame............: 2011/7/1 to 2011/12/31
+  Population............: 7165691
+  Number of cases.......: 15083
+  Expected cases........: 974.22
+  Annual cases / 100000.: 417.8
+  Observed / expected...: 15.48
+  Relative risk.........: 24.60
+  Log likelihood ratio..: 30229.760897
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+
+2.Location IDs included.: 210197, 210565, 210055, 210632, 150195, 150830, 210290, 210467,
+                          210620, 210260, 210430, 210315, 210923, 211240, 210637, 150090,
+                          150655, 150170, 211245, 211003, 150495, 150307, 150540, 210130,
+                          210980, 150803, 150230, 150220, 210083, 210735, 210927, 211178,
+                          150160, 150350, 150611, 150610, 150560, 210860, 150405, 150500,
+                          210370, 210680, 210317, 210087, 150660, 210312, 150747, 150690,
+                          210825, 150760, 210760, 210840, 150320, 211400, 210190, 210905,
+                          211050, 210490, 150620, 150720, 210310, 150095, 150430, 150740,
+                          211170, 210465, 210745, 210830, 150410, 210650, 210020, 150240,
+                          150340, 150440, 150275, 210135, 211102, 211280, 150796, 211100,
+                          150190, 210690, 210240, 150290, 210250, 150650, 150746, 150550,
+                          150345
+  Coordinates / radius..: (1.762813 S, 46.178716 W) / 225.60 km
+  Time frame............: 2011/7/1 to 2011/12/31
+  Population............: 2392929
+  Number of cases.......: 998
+  Expected cases........: 325.34
+  Annual cases / 100000.: 82.8
+  Observed / expected...: 3.07
+  Relative risk.........: 3.12
+  Log likelihood ratio..: 451.869670
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+
+3.Location IDs included.: 510385, 510630, 510270, 510706, 510624, 510370, 510020, 510260,
+                          510830, 510724, 510718, 510185, 510625, 510617, 510850, 510776,
+                          510645, 510035, 510628, 510785, 510792, 510558, 510305, 510704,
+                          510788, 510620, 510790, 510269, 510310, 510735, 510619, 510180,
+                          510390, 510631, 510525, 510590, 510622, 510100, 510452, 510677,
+                          510267, 510455, 510642, 510810, 510805, 510300, 510700, 510360,
+                          510770, 510665, 510800, 521483, 520250, 510774, 510320
+  Coordinates / radius..: (12.996255 S, 53.455995 W) / 342.74 km
+  Time frame............: 2011/5/1 to 2011/6/30
+  Population............: 875643
+  Number of cases.......: 106
+  Expected cases........: 39.47
+  Annual cases / 100000.: 72.5
+  Observed / expected...: 2.69
+  Relative risk.........: 2.69
+  Log likelihood ratio..: 38.248126
+  Monte Carlo rank......: 1/10000
+  P-value...............: 0.0001
+
+A cluster is statistically significant when its log likelihood ratio is greater than the
+critical value, which is, for significance level:
+
+Standard Monte Carlo Critical Values:
+.... 0.0001: 21.732332
+..... 0.001: 17.902539
+...... 0.01: 15.338238
+...... 0.05: 13.618837
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Sink within\sink_within2011.csv
+  Population File  : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\population\population2011.csv
+  Time Precision   : Month
+  Start Time       : 2011/1/1
+  End Time         : 2011/12/31
+  Coordinates File : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Coordinates\satscan_coordinates.csv
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis        : Retrospective Space-Time
+  Probability Model       : Discrete Poisson
+  Scan for Areas with     : High Rates
+  Time Aggregation Units  : Month
+  Time Aggregation Length : 1
+
+Output
+------
+  Main Results File       : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.txt
+  Cluster File            : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.col.txt
+  Google Maps File        : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.clustermap.html
+  Shapefile (Cluster)     : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.clustermap.col.shp
+  Cluster File            : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.clustermap.col.dbf
+  Stratified Cluster File : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.clustermap.sci.txt
+  Location File           : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.clustermap.gis.txt
+  Location File           : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.clustermap.gis.dbf
+  Shapefile (Locations)   : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.clustermap.gis.shp
+  Risk Estimates File     : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.clustermap.rr.txt
+  Simulated LLRs File     : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.clustermap.llr.txt
+  Temporal Graph File     : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.temporal.html
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Use Non-Euclidean Neighbors file : No
+  Use Meta Locations File          : No
+  Multiple Coordinates Type        : Allow only one set of coordinates per location ID.
+
+Locations Network
+-----------------
+  Use Locations Network File : No
+  Locations Network File     : 
+  Locations Network Purpose  : Network Definition
+
+Line List
+---------
+  Line list data, file wizard. : Yes
+  Events Cache File            : 
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size     : 5 percent of population at risk
+  Include Purely Temporal Clusters : No
+  Window Shape                     : Circular
+
+Temporal Window
+---------------
+  Minimum Temporal Cluster Size   : 2 Months
+  Maximum Temporal Cluster Size   : 6 Months
+  Include Purely Spatial Clusters : No
+
+Cluster Restrictions
+--------------------
+  Minimum Cases in Cluster for High Rates : 2
+  Restrict High Rate Clusters             : No
+
+Space And Time Adjustments
+--------------------------
+  Temporal Adjustment                     : None
+  Adjust for Weekly Trends, Nonparametric : No
+  Spatial Adjustment                      : None
+  Adjust for known relative risks         : No
+
+Inference
+---------
+  P-Value Reporting                  : Standard Monte Carlo
+  Report Gumbel Based P-Values       : No
+  Number of Replications             : 9999
+  Adjusting for More Likely Clusters : No
+
+Cluster Drilldown
+-----------------
+  Standard Drilldown on Detected Clusters  : No
+  Bernoulli Drilldown on Detected Clusters : No
+
+Spatial Output
+--------------
+  Automatically Launch Map                  : Yes
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Restrict Reporting to Smaller Clusters    : No
+
+Temporal Graphs
+---------------
+  Produce Temporal Graphs : Yes
+  Cluster Graphing        : Most likely cluster only
+  Temporal Graph File     : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2021 with SINAN\Output\Sink Within\sinkwtn2011.temporal.html
+
+Other Output
+------------
+  Cluster Significant by P-value Cutoff : No
+  Report Critical Values                : Yes
+  Report Monte Carlo Rank               : Yes
+  Print ASCII Column Headers            : No
+
+Alerts
+------
+  Send Summary of Analysis Results by Email : No
+
+Run Options
+-----------
+  Processor Usage   : All Available Processors
+  Suppress Warnings : No
+  Logging Analysis  : No
+_______________________________________________________________________________________________
+
+Program completed  : Fri Jul  7 14:59:26 2023
+Total Running Time : 1 minute 45 seconds
+Processor Usage    : 8 processors

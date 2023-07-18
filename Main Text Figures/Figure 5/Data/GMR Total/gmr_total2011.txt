@@ -1,0 +1,292 @@
+                                 _____________________________
+
+                                        SaTScan v10.1.2
+                                 _____________________________
+
+
+Program run on: Tue Jul 11 10:38:35 2023
+
+Retrospective Space-Time analysis
+scanning for clusters with high values
+using the Normal model.
+_______________________________________________________________________________________________
+
+SUMMARY OF DATA
+
+Study period.......................: 2011/1/1 to 2011/12/31
+Number of locations................: 5570
+Total number of cases..............: 287798
+Mean...............................: 2.97
+Variance...........................: 11.39
+Standard deviation.................: 3.37
+_______________________________________________________________________________________________
+
+CLUSTERS DETECTED
+
+1.Location IDs included.: 140017
+  Coordinates / radius..: (2.272837 N, 60.542285 W) / 0 km
+  Time frame............: 2011/1/1 to 2011/5/31
+  Number of cases.......: 2015
+  Mean inside...........: 11.99
+  Mean outside..........: 2.90
+  Variance..............: 10.81
+  Standard deviation....: 3.29
+  Log likelihood ratio..: 7440.027567
+  Monte Carlo rank......: 1/1000
+  P-value...............: 0.001
+
+2.Location IDs included.: 110080
+  Coordinates / radius..: (8.886994 S, 63.325621 W) / 0 km
+  Time frame............: 2011/6/1 to 2011/11/30
+  Number of cases.......: 3353
+  Mean inside...........: 9.63
+  Mean outside..........: 2.89
+  Variance..............: 10.86
+  Standard deviation....: 3.30
+  Log likelihood ratio..: 6766.866635
+  Monte Carlo rank......: 1/1000
+  P-value...............: 0.001
+
+3.Location IDs included.: 160015, 160005, 160027, 160053, 160023, 160055, 160040
+  Coordinates / radius..: (1.157614 N, 52.519564 W) / 150.01 km
+  Time frame............: 2011/8/1 to 2011/12/31
+  Number of cases.......: 5861
+  Mean inside...........: 7.39
+  Mean outside..........: 2.88
+  Variance..............: 10.98
+  Standard deviation....: 3.31
+  Log likelihood ratio..: 5237.625409
+  Monte Carlo rank......: 1/1000
+  P-value...............: 0.001
+
+4.Location IDs included.: 150085, 150780, 150548
+  Coordinates / radius..: (3.997185 S, 51.301278 W) / 81.99 km
+  Time frame............: 2011/7/1 to 2011/12/31
+  Number of cases.......: 5645
+  Mean inside...........: 6.17
+  Mean outside..........: 2.90
+  Variance..............: 11.18
+  Standard deviation....: 3.34
+  Log likelihood ratio..: 2612.989409
+  Monte Carlo rank......: 1/1000
+  P-value...............: 0.001
+
+5.Location IDs included.: 120042
+  Coordinates / radius..: (7.843835 S, 73.223448 W) / 0 km
+  Time frame............: 2011/11/1 to 2011/12/31
+  Number of cases.......: 1082
+  Mean inside...........: 9.21
+  Mean outside..........: 2.94
+  Variance..............: 11.24
+  Standard deviation....: 3.35
+  Log likelihood ratio..: 1869.605536
+  Monte Carlo rank......: 1/1000
+  P-value...............: 0.001
+
+6.Location IDs included.: 130410, 130090
+  Coordinates / radius..: (6.093702 S, 64.955796 W) / 166.51 km
+  Time frame............: 2011/10/1 to 2011/11/30
+  Number of cases.......: 417
+  Mean inside...........: 11.11
+  Mean outside..........: 2.96
+  Variance..............: 11.29
+  Standard deviation....: 3.36
+  Log likelihood ratio..: 1220.401753
+  Monte Carlo rank......: 1/1000
+  P-value...............: 0.001
+
+7.Location IDs included.: 150503, 510626, 150375
+  Coordinates / radius..: (8.062277 S, 55.612026 W) / 198.38 km
+  Time frame............: 2011/10/1 to 2011/12/31
+  Number of cases.......: 2162
+  Mean inside...........: 5.42
+  Mean outside..........: 2.95
+  Variance..............: 11.34
+  Standard deviation....: 3.37
+  Log likelihood ratio..: 575.994880
+  Monte Carlo rank......: 1/1000
+  P-value...............: 0.001
+
+8.Location IDs included.: 150309
+  Coordinates / radius..: (4.027193 S, 49.005718 W) / 0 km
+  Time frame............: 2011/7/1 to 2011/12/31
+  Number of cases.......: 2776
+  Mean inside...........: 4.88
+  Mean outside..........: 2.95
+  Variance..............: 11.35
+  Standard deviation....: 3.37
+  Log likelihood ratio..: 451.722708
+  Monte Carlo rank......: 1/1000
+  P-value...............: 0.001
+
+9.Location IDs included.: 150280
+  Coordinates / radius..: (1.583462 S, 49.988034 W) / 0 km
+  Time frame............: 2011/1/1 to 2011/2/28
+  Number of cases.......: 1664
+  Mean inside...........: 4.57
+  Mean outside..........: 2.96
+  Variance..............: 11.37
+  Standard deviation....: 3.37
+  Log likelihood ratio..: 188.060747
+  Monte Carlo rank......: 1/1000
+  P-value...............: 0.001
+
+10.Location IDs included.: 150110
+   Coordinates / radius..: (2.373143 S, 50.181767 W) / 0 km
+   Time frame............: 2011/7/1 to 2011/8/31
+   Number of cases.......: 1084
+   Mean inside...........: 4.48
+   Mean outside..........: 2.96
+   Variance..............: 11.38
+   Standard deviation....: 3.37
+   Log likelihood ratio..: 109.976081
+   Monte Carlo rank......: 1/1000
+   P-value...............: 0.001
+
+11.Location IDs included.: 150360
+   Coordinates / radius..: (5.871135 S, 56.496715 W) / 0 km
+   Time frame............: 2011/11/1 to 2011/12/31
+   Number of cases.......: 3179
+   Mean inside...........: 3.74
+   Mean outside..........: 2.96
+   Variance..............: 11.38
+   Standard deviation....: 3.37
+   Log likelihood ratio..: 85.082477
+   Monte Carlo rank......: 1/1000
+   P-value...............: 0.001
+
+12.Location IDs included.: 210197
+   Coordinates / radius..: (1.762072 S, 46.178918 W) / 0 km
+   Time frame............: 2011/8/1 to 2011/9/30
+   Number of cases.......: 84
+   Mean inside...........: 6.43
+   Mean outside..........: 2.97
+   Variance..............: 11.38
+   Standard deviation....: 3.37
+   Log likelihood ratio..: 44.229011
+   Monte Carlo rank......: 1/1000
+   P-value...............: 0.001
+
+A cluster is statistically significant when its log likelihood ratio is greater than the
+critical value, which is, for significance level:
+
+Standard Monte Carlo Critical Values:
+..... 0.001: 40.407794
+...... 0.01: 31.528499
+...... 0.05: 26.937175
+_______________________________________________________________________________________________
+
+PARAMETER SETTINGS
+
+Input
+-----
+  Case File        : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\GMR total\GCMR_total2011.csv
+  Time Precision   : Month
+  Start Time       : 2011/1/1
+  End Time         : 2011/12/31
+  Coordinates File : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Coordinates\coordinates_updated.csv
+  Coordinates      : Latitude/Longitude
+
+Analysis
+--------
+  Type of Analysis        : Retrospective Space-Time
+  Probability Model       : Normal
+  Scan for Areas with     : High Values
+  Time Aggregation Units  : Month
+  Time Aggregation Length : 1
+
+Output
+------
+  Main Results File       : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Output\GMR Total\gmr_total2011.txt
+  Cluster File            : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Output\GMR Total\gmr_total2011.col.txt
+  Google Maps File        : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Output\GMR Total\gmr_total2011.clustermap.html
+  Shapefile (Cluster)     : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Output\GMR Total\gmr_total2011.clustermap.col.shp
+  Cluster File            : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Output\GMR Total\gmr_total2011.clustermap.col.dbf
+  Stratified Cluster File : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Output\GMR Total\gmr_total2011.clustermap.sci.txt
+  Location File           : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Output\GMR Total\gmr_total2011.clustermap.gis.txt
+  Location File           : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Output\GMR Total\gmr_total2011.clustermap.gis.dbf
+  Shapefile (Locations)   : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Output\GMR Total\gmr_total2011.clustermap.gis.shp
+  Risk Estimates File     : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Output\GMR Total\gmr_total2011.clustermap.rr.txt
+  Simulated LLRs File     : C:\Users\nicho\OneDrive\Dissertation\Chapter I\Mobility paper\Current analyses\SatScan\CURRENT -- SatScan -- 04 to 2022 with SINAN\Output\GMR Total\gmr_total2011.clustermap.llr.txt
+
+Data Checking
+-------------
+  Temporal Data Check     : Check to ensure that all cases and controls are within the specified temporal study period.
+  Geographical Data Check : Check to ensure that all observations (cases, controls and populations) are within the specified geographical area.
+
+Spatial Neighbors
+-----------------
+  Use Non-Euclidean Neighbors file : No
+  Use Meta Locations File          : No
+  Multiple Coordinates Type        : Allow only one set of coordinates per location ID.
+
+Locations Network
+-----------------
+  Use Locations Network File : No
+  Locations Network File     : 
+  Locations Network Purpose  : Network Definition
+
+Line List
+---------
+  Line list data, file wizard. : Yes
+  Events Cache File            : 
+
+Spatial Window
+--------------
+  Maximum Spatial Cluster Size     : 5 percent of population at risk
+  Include Purely Temporal Clusters : No
+  Window Shape                     : Circular
+
+Temporal Window
+---------------
+  Minimum Temporal Cluster Size   : 2 Months
+  Maximum Temporal Cluster Size   : 6 Months
+  Include Purely Spatial Clusters : No
+
+Cluster Restrictions
+--------------------
+  Minimum Cases in Cluster for High Rates : 2
+
+Space And Time Adjustments
+--------------------------
+  Adjust for Weekly Trends, Nonparametric : No
+
+Inference
+---------
+  P-Value Reporting                  : Standard Monte Carlo
+  Report Gumbel Based P-Values       : No
+  Number of Replications             : 999
+  Adjusting for More Likely Clusters : No
+
+Cluster Drilldown
+-----------------
+  Standard Drilldown on Detected Clusters : No
+
+Spatial Output
+--------------
+  Automatically Launch Map                  : No
+  Report Hierarchical Clusters              : Yes
+  Criteria for Reporting Secondary Clusters : No Geographical Overlap
+  Restrict Reporting to Smaller Clusters    : No
+
+Other Output
+------------
+  Cluster Significant by P-value Cutoff : No
+  Report Critical Values                : Yes
+  Report Monte Carlo Rank               : Yes
+  Print ASCII Column Headers            : No
+
+Alerts
+------
+  Send Summary of Analysis Results by Email : No
+
+Run Options
+-----------
+  Processor Usage   : All Available Processors
+  Suppress Warnings : No
+  Logging Analysis  : No
+_______________________________________________________________________________________________
+
+Program completed  : Tue Jul 11 11:05:01 2023
+Total Running Time : 26 minutes 26 seconds
+Processor Usage    : 8 processors
